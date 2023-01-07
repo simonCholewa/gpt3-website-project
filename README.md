@@ -3,8 +3,9 @@
 
 ## General Info
 This is a Front-end only website that informs user about chat GTP-3 technology.
-This project is done using React.js.
 [View the wbiste](https://gpt3-simonch-project.com.pl/).
+This project is done using React.js.
+
 
 ## Technologies used
 * React.js
